@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>{{a_title}}</title>
+<meta name="description" content="{{ a_title }}" />
+<meta name="keywords" content="美国旅游攻略" />
+<meta name="author" content="10447774,柚子" />
+    <script src="/static/js/jq.js"></script>
+    <link rel="stylesheet" href="/static/css/comment_show.css">
+    <link rel="stylesheet" href="/static/css/style2.css">
+    <link rel="stylesheet" href="/static/css/comment.css">
+    <link rel="stylesheet" href="/static/css/reply.css">
+    <script type="text/javascript" src="/static/js/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery.flexText.js"></script>
+    <script type="text/javascript" src="/static/js/comment_post.js"></script>
+<style>
+	#main-content{
+		width:980px;
+	}
+	#set_bg{
+	    background-position:center;
+	}
+	#_j_head_search_input{
+	    width:500px;
+	}
+	#_j_head_search_link{
+	    left:470px;
+	}
+	#main_text_content{
+	    line-height:40px;
+	    font-size:20px;
+	}
+	#user_name{
+	    font-size:24px;
+	    font-weight:800;
+	}
+	#article_title{
+	    font-size:36px;
+	}
+	#reply_box{
+	    width:1050px;
+	    height:130px;
+	    margin: 809 auto;
+	    font-size:14px;
+	    position:relative;
+	}
+	#reply_box_text{
+	    width:900px;
+	    height:60px;
+	    margin: 100;
+	    font-size:14px;
+	    background:#fffff8;
+	}
+    #confirm_reply{
+        position:absolute;
+        top:10px;
+        right:50px;
+    }
+    #cancel_reply{
+        position:absolute;
+        top:50px;
+        right:50px;
+    }
+
+	.reply_comment{
+	    position:relative;
+	}
+	.reply_comment span{
+	    position:absolute;
+        top: -130px;
+        right: 30px;
+	}
+	.space{
+	    height:100px;
+	}
+
+	#comment_text, .comment-input, .plBtn{
+	    font-size:20px;
+	}
+	.user_info{
+	    background:#b3b2b091;
+	}
+	.clearfix.reviewArea textarea {
+    height: 150px;
+    }
+    .reply_comment{display:block}
+</style>
+
+<script type="text/javascript">
+window.Env = {"mddid":10062,"curr_page":1,"music_url":null,"author_uid":"17163051","author_name":"\u67da\u5b50","logo_120":"http:\/\/b2-q.mafengwo.net\/s11\/M00\/29\/93\/wKgBEFsn1gqAIVwtAADpJ13ZvHQ18.jpeg?imageMogr2%2Fthumbnail%2F%21120x120r%2Fgravity%2FCenter%2Fcrop%2F%21120x120%2Fquality%2F90","is_new_note":true,"iid":10447774,"new_iid":"371897616","showToolbarQrcode":true,"has_more":true,"pv_workkey":"5b9488de-2f97-e280-ab71-6706b2286050-5b949ecd2ecd1-10447774","pv_worktask":"50867737,bc53,eb6b,30b7,433a,df3b,6b1b,63e8,b1ba,608e,bc32,caf1,d595,4250,e0eb","WWW_HOST":"www.mafengwo.cn","IMG_HOST":"images.mafengwo.net","P_HOST":"passport.mafengwo.cn","P_HTTP":"https:\/\/passport.mafengwo.cn","PAGELET_HTTP":"http:\/\/pagelet.mafengwo.cn","JS_HOST":"js.mafengwo.net","UID":70257916,"CSTK":"74fe40429e8aaff4f47f44a04a0a8b0c_5673a7cc807fc95a8d938be4165bb3a2","GOOGLE_MAP_KEY":"AIzaSyD-Su0x_rPy1xehlMBcMyTqWkU49Bk53nQ","TONGJI_HOST":"tongji.mafengwo.cn"};
+</script>
+
+<link href="http://css.mafengwo.net/css/cv/css+base:css+jquery.suggest:css+plugins:css+plugins+jquery.jgrowl:css+other+popup:css+mfw-header.2015^YlVS^1527308432.css" rel="stylesheet" type="text/css"/>
+
+<link href="http://css.mafengwo.net/css/cv/css+jquery-ui-1.8.18.custom:css+new_notes+new_notes:css+new_notes+schedule_info:css+new_notes+step:css+new_notes+sideview:css+new_notes+notes_comments:css+mfw_comment^YlNV^1524648540.css" rel="stylesheet" type="text/css"/>
+
+
+<script language="javascript" src="http://js.mafengwo.net/js/cv/js+jquery-1.8.1.min:js+global+json2:js+M+Module:js+M+M:js+M+Log:js+m.statistics:js+advert+inspector^alw^1536006240.js" type="text/javascript" crossorigin="anonymous"></script>
+
+</head>
+<body>
+<div id="csrftoken">{% csrf_token %}</div>
+<input type="hidden" id="full_path" value="{{ full_path }}">
+
+
+
+
+
+
+<!--@-->
+<div class="mfw-header">
+        <div class="header-wrap clearfix">
+            <div class="head-logo">
+                <a href="/">
+                    <img src="/static/img/logo_2X.png" alt="" width="150", height="40">
+                </a>
+            </div>
+            <ul class="head-nav" data-cs-t="headnav" id="_j_head_nav">
+                <li class="head-nav-index" data-cs-p="index"><a href="/">首页</a></li>
+                    </a>
+                    <div class="dropdown-menu dropdown-sales hide _j_sales_top" id="_j_sales_panel" data-cs-t="sales_nav">
+                        <ul>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/sales/" data-sales-nav="机票＋酒店">自由行<i class="i-hot">hot</i></a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/sales/0-0-0-0-0-0-0-0.html?group=4" data-sales-nav="跟团游">跟团游</a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/localdeals/" data-sales-nav="当地游">当地游</a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/flight/" data-sales-nav="国内机票">国内机票<i class="i-new">new</i></a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/sales/visa/" data-sales-nav="签证">签证</a></li>
+                            <li><a target="_blank" href="http://www.mafengwo.cn/insure/" data-sales-nav="保险">保险</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+            <div class="head-search" data-online="1">
+                <div class="head-search-wrapper">
+                    <div class="head-searchform">
+                        <input  name="q" type="text" id="_j_head_search_input" autocomplete="off">
+                        <a role="button" href="javascript:" class="icon-search" id="_j_head_search_link"></a>
+                    </div>
+                </div>
+            </div>
+            <div id="pagelet-block-ef938af16ee28868debf35e1b4f50ffd" class="pagelet-block" data-api="apps:user:pagelet:pageViewHeadInfo" data-params="{&quot;type&quot;:1}" data-async="1" data-controller="/js/pageletcommon/pageHeadUserInfoWWWNormal">
+
+
+                <!--有session的时候，即登录的时候-->
+
+
+
+                {% if session_id %}
+	<div class="login-info">
+		<div class="head-user" id="_j_head_user">
+			<a class="drop-trigger" href="/personal/index/?reader_id={{ reader_id }}" title="{{ reader_name }}" rel="nofollow">
+				<div class="user-image"><img src="{{ reader_portrait }}" height="32" width="32" alt="旅程🤞🏻的窝"></div>
+				<i class="icon-caret-down"></i>
+			</a>
+		</div>
+		<div class="head-daka " id="log_out">
+			<!--<a class="btn head-btn-daka" href="#" rel="nofollow" id="head-btn-daka" title="打卡" data-japp="daka">退出</a>-->
+            <a href="/log_out/{{ full_path }}">退出</a>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <!--没有登录的时候，也就是没有sessionid的时候-->
+                {% else %}
+                <div class="login-out">
+		<a class="weibo-login" href="https://passport.mafengwo.cn/weibo" title="微博登录" rel="nofollow"></a>
+		<a class="qq-login" href="https://passport.mafengwo.cn/qq" title="QQ登录" rel="nofollow"></a>
+		<a class="weixin-login" href="https://passport.mafengwo.cn/wechat" title="微信登录" rel="nofollow"></a>
+		<a id="_j_showlogin" title="登录马蜂窝" href="/login/" rel="nofollow">登录</a><span class="split">|</span>
+                    <a href="/register/" title="注册帐号" rel="nofollow">
+                        注册
+                    </a>
+	</div>
+                {% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+<!--@-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="main">
+
+    <div class="set_index" id="_j_cover_box">
+                <div class="set_bg _j_load_cover" style="z-index:1;" id="set_bg">
+        <img src="{{ a_cover }}" style="display: none">
+    </div>
+
+    <div class="fully_loading">
+                <p vtip="封面加载中...">封面加载中...</p>
+        <img src="http://images.mafengwo.net/images/post/new_notes/fully_loading_v2.gif" alt="loading">
+            </div>
+
+    <div class="_j_titlebg">
+        <div class="title_bg"></div>
+        <div class="view_info" data-length="14">
+            <div class="vi_con">
+                <h1 data-length="14" class="headtext lh80" id="article_title">{{ a_title }}</h1>
+                <!--标记-->
+                <input type="hidden" id="author_id" value="{{ u_id }}" >
+                <input type="hidden" id="reader_id" value="{{ session_id }}" >
+                <input type="hidden" id="article_id" value="{{ a_id }}" >
+            </div>
+        </div>
+    </div>
+    </div>
+<script>$('#_j_cover_box').height($(window).width()/3);</script>
+
+
+
+
+
+
+
+
+    <div class="view_title clearfix">
+        <div id="pagelet-block-4213b46e476ac2817ebf71c6a3595e93" class="pagelet-block" data-api=":note:pagelet:headOperateApi" data-params="{&quot;iid&quot;:&quot;9442313&quot;}" data-async="1" data-controller="/js/note/ControllerHead">
+            <div class="vt_center">
+            <div class="ding _j_ding_father">
+            <a role="button" data-japp="articleding" rel="nofollow" data-iid="9442313" data-vote="115" class="up_act " title="顶">顶</a>
+<div class="num _j_up_num topvote9442313"></div>
+
+        </div>
+        <div class="person" data-cs-t="ginfo_person_operate">
+        <a href="/personal/index/?author_id={{ author_id }}" target="_blank" class="per_pic">
+            <img width="120" height="120" src="{{ u_portrait }}" alt=""></a>
+                <strong>
+                    <a href="/personal/index/?author_id={{ author_id }}" target="_blank" class="per_name" title="Ruci_DKK" id="user_name">
+                        {{ u_name }}
+                    </a>
+                </strong>
+                <a href="/u/82489902.html" target="_blank" class="per_grade" title="LV.27"></a>
+                            <a href="javascript:void(0);" class="per_attention" data-japp="following" data-uid="82489902" data-follow_class="hide">
+                <img src="http://images.mafengwo.net/images/home/tweet/btn_sfollow.gif" width="38" height="13" border="0" title="关注TA">
+            </a>
+                <div class="vc_time">
+            <span class="time">{{ a_time }}</span>
+            <span><i class="ico_view"></i>{{ a_page_views }}人阅读</span>
+                    </div>
+            </div>
+
+        <div class="bar_share _j_share_father _j_top_share_group">
+            <div class="bs_share">
+    <a href="javascript:like();" rel="nofollow" title="分享" class="bs_btn"><i></i><span>{{ a_like_num }}</span><strong>分享</strong></a>
+    <div class="bs_pop clearfix" style="display: none;">
+        <a title="分享到新浪微博" rel="nofollow" role="button" class="sina" data-japp="sns_share" data-jappfedata="" data-key="wb" data-title="精彩游记---《【吃货眼里的大马-怡保篇】》" data-content="[哈哈]我发现了一篇关于【怡保】的#马蜂窝游记#----《【吃货眼里的大马-怡保篇】》，115人【喜欢】。" data-pic="http://b1-q.mafengwo.net/s11/M00/33/7E/wKgBEFsVTDqALlPHAA2vNDuQp1Y45.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90|http://p1-q.mafengwo.net/s11/M00/37/88/wKgBEFsVTcCABE9KABEH8qX-hPI52.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90|http://p4-q.mafengwo.net/s11/M00/33/AB/wKgBEFsVTEuAPPubAA7fNU1bJrg95.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90|http://p3-q.mafengwo.net/s11/M00/33/E0/wKgBEFsVTF6ASb2CAA693qzABBU04.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90" data-url="http://m.mafengwo.cn/i/9442313.html"></a>
+        <a title="分享到QQ空间" rel="nofollow" role="button" class="zone" data-japp="sns_share" data-jappfedata="" data-key="qz" data-title="精彩游记---《【吃货眼里的大马-怡保篇】》" data-content="115人【喜欢】，" data-pic="http://b1-q.mafengwo.net/s11/M00/33/7E/wKgBEFsVTDqALlPHAA2vNDuQp1Y45.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90|http://p1-q.mafengwo.net/s11/M00/37/88/wKgBEFsVTcCABE9KABEH8qX-hPI52.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90|http://p4-q.mafengwo.net/s11/M00/33/AB/wKgBEFsVTEuAPPubAA7fNU1bJrg95.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90|http://p3-q.mafengwo.net/s11/M00/33/E0/wKgBEFsVTF6ASb2CAA693qzABBU04.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90" data-url="http://m.mafengwo.cn/i/9442313.html"></a>
+        <a title="分享到微信" rel="nofollow" role="button" class="weixin" data-japp="weixin_dialog_share" data-jappfedata="" data-wx_qr="http://www.mafengwo.cn/qrcode.php?text=http%3A%2F%2Fm.mafengwo.cn%2Fi%2F9442313.html&amp;size=150&amp;eclevel=H&amp;logo=&amp;__stk__=9b2b9177fbd1bdad624260a01868db39_343f9d39d58b91f037581240142a48b7" data-detail="9442313"></a>
+    </div>
+</div>
+<div class="bs_collect ">
+    <a href="javascript:collect();" rel="nofollow" title="收藏" class="bs_btn _j_do_fav" data-ctime="2018-06-05 13:46:56"><i></i><span>{{ a_collect }}</span><strong>收藏</strong></a>
+</div>
+
+        </div>
+        <div class="_j_music_father">
+
+        </div>
+
+</div>
+</div>
+    </div>
+
+
+    <script>
+        function like(){
+            dic = {
+                "url":"/like/",
+                "type":"post",
+                "data":{
+                    "csrfmiddlewaretoken":$("#csrftoken input").val(),
+                    "a_id":$("#article_id").val(),
+                },
+                "dataType":"json",
+                "success":function(res){
+                    if(res.status == 1){
+                        $(".bs_share span").text(res.a_like_num);
+                    }else{
+                        alert("请先登录")
+                    }
+                }
+            }
+            $.ajax(dic)
+        }
+
+
+
+        function collect(){
+            dic = {
+                "url":"/collect/",
+                "type":"post",
+                "data":{
+                    "csrfmiddlewaretoken":$("#csrftoken input").val(),
+                    "a_id":$("#article_id").val(),
+                },
+                "dataType":"json",
+                "success":function(res){
+                    if(res.status == 1){
+                        $(".bs_collect span").text(res.a_collect);
+                    }else{
+                        alert("请先登录")
+                    }
+                }
+            }
+            $.ajax(dic)
+        }
+    </script>
+
+
+
+
+
+
+    <div class="view clearfix" style="position:relative;">
+        <div class="view_con" id="main-content">
+
+            <div class="activity_style_notes aNotice aNoticeM hide">
+    <i class="asn_ico"></i>
+    <strong class="noticeDes"></strong>
+    <a href="" title="去看看" class="noticeUrl" target="_blank">去看看&gt;</a>
+    <a href="javascript:;" class="close noticeClose" title="不再显示">不再显示</a>
+</div>
+
+                <div id="main-body">
+
+                </div>
+
+
+
+
+
+                <div class="vc_article">
+
+
+
+   <div class="vc_total _j_help_total">
+       文章：《{{ a_title }}》
+        <a class="r-report" data-japp="report" data-refer-uid="17163051" data-refer="http://www.mafengwo.cn/i/10447774.html" data-app="youji">举报</a>    </div>
+
+                                    </div>
+
+            <a name="replylist"></a>
+
+            <div id="note-reply-bottomReplyApi"
+                 data-api=":note:pagelet:bottomReplyApi"
+                 data-controller="/js/note/ControllerReply"
+                 data-params='{"iid":10447774,"page":1}'
+            ></div>
+
+        </div>
+
+
+    </div>
+
+
+
+            <!-- 输入评论 -->
+        <div class="commentAll">
+            <!--评论区域 begin-->
+            <div class="reviewArea clearfix">
+                <textarea class="content comment-input" placeholder="请输入评论内容..." onkeyup="keyUP(this)"></textarea>
+                <a href="javascript:;" class="plBtn" id="post_comment">评论</a>
+            </div>
+        </div>
+
+
+
+
+
+    <!--评论提交的post请求-->
+        <script type="text/javascript">
+            $(function(){
+                $("#post_comment").click(function(){
+                    var comment_text = $(".clearfix.reviewArea textarea").val();
+                    $(".clearfix.reviewArea textarea").val("");
+                    var csrftoken = $("#csrftoken input").val()
+
+                    <!--评论提交的post请求-->
+                    var dic={
+                        "url":"/comment_show/",
+                        "type":"post",
+                        "data":{
+                            "comment_text":comment_text,
+                            "csrfmiddlewaretoken":csrftoken,
+                            "a_id":$("#article_id").val(),
+                            "reader_id":$("#reader_id").val(),
+                        },
+                        "dataType":"json",
+                        "success":function(res){
+                            alert("评论成功");
+                            console.log(res);
+                            var html = "";
+                            $(res).each(function(i, obj){
+                            html += ' <div class="comment_each" name="'
+                            html += obj.comment_id
+                            html += '"><div class="user_info"><a href="//www.qyer.com/u/4352547" target="_blank" class="name"><img id="user_portrait" src="'
+                            html += obj.commentator_portrait
+                            html +=  '" class="left"></a><div class="user_center"><div class="center_top"><a id="user_name" href="//www.qyer.com/u/4352547" target="_blank" class="name">'
+                            html += obj.commentator_name
+                            html += '</a></div><div class="center_bottom">  <span class="time">发表于'
+                            html += obj.comment_time
+                            html += '</span></div><div class="comment_num" >'
+                            html += obj.floor
+                            html += '楼</div></div></div><div id="comment_text" class="comment_text">'
+                            html += obj.comment_text
+                            html += '</div><div class="space"></div><div class="reply reply_comment"><a href="javascript:"><span >回复</span></a></div></div>'
+                            })
+                            $(".comment_all").html(html);
+                        }
+                    }
+                    $.ajax(dic)
+                    setTimeout(create_event, 500)
+                })
+            })
+        </script>
+
+
+        <!-- 评论块 -->
+        <div class="comment_all">
+
+        </div>
+
+
+
+
+
+
+
+
+
+<!--get请求，即：网页一刷新时加载完毕的页面，要包括所有评论和回复-->
+    <script>
+        var dic={
+            "url":"/comment_show/",
+            "type":"get",
+            "data":{
+                "a_id":$("#article_id").val(),
+            },
+            "dataType":"json",
+            "success":function(res){
+                console.log(res);
+                var html = "";
+                <!--第一层循环， 创造评论-->
+                $(res).each(function(i, obj){
+                <!--评论的html拼接-->
+                    html += ' <div class="comment_each" name="'
+                    html += obj.comment_id
+                    html += '"><div class="user_info"><a href="//www.qyer.com/u/4352547" target="_blank" class="name"><img id="user_portrait" src="'
+                    html += obj.commentator_portrait
+                    html +=  '" class="left"></a><div class="user_center"><div class="center_top"><a id="user_name" href="//www.qyer.com/u/4352547" target="_blank" class="name">'
+                    html += obj.commentator_name
+                    html += '</a></div><div class="center_bottom">  <span class="time">发表于'
+                    html += obj.comment_time
+                    html += '</span></div><div class="comment_num" >'
+                    html += obj.floor
+                    html += '楼</div></div></div><div id="comment_text" class="comment_text">'
+                    html += obj.comment_text
+                    html += '</div><div class="space"></div><div class="reply reply_comment"><a href="javascript:"><span >回复</span></a></div>'
+
+                    <!--第二层循环， 创造回复-->
+                   $(obj.reply_list).each(function(i, obj){
+                   <!--回复的HTML拼接 -->
+                        html += '<div class="reply_list" id=""><div class="reply_each"><div class="reply_user_info"><div class="user_protrait_img"><img id="user_portrait" src="'
+                        html += obj.replyer_portrait
+                        html += '" class="left"></div><span class="replyer_name">'
+                        html += obj.replyer_name
+                        html += ' : </span><span class="color_fuck">回复</span><span class="bei_replyer_name">'
+                        html += obj.bei_reply_name
+                        html += ' : </span></div><div class="reply_text">'
+                        html += obj.reply_text
+                        html += '</div><div class="reply_time">'
+                        html += obj.reply_time
+                        html += '</div></div></div>'
+                   })
+
+                    html += '</div>'
+
+                })
+                $(".comment_all").html(html);
+            }
+        }
+            $.ajax(dic)
+            setTimeout(create_event, 500)
+    </script>
+
+<!--插入回复-->
+    <script>
+        function create_event(){
+            <!--对所有的回复按钮键添加点击事件-->
+            $($(".reply_comment")).each(function(i, obj){
+                <!--开始设置点击-->
+                $(obj).click(function(){
+                    $(this).css("display", "none");
+                    html = '<div id="reply_box"> <textarea id="reply_box_text" class="content comment-input" placeholder="请输入回复内容..." onkeyup="keyUP(this)"></textarea><input id="confirm_reply" type="button" value="确定"><input id="cancel_reply" type="button" value="取消"></div>'
+                    var reply_box = $(html)
+                    <!--弹出回复输入框-->
+                    $(this).parent().append(reply_box)
+                    <!--alert($(this))-->
+                    console.log($(this))
+                    $(this).siblings().find("input :first").click(function(){
+                        <!--重难点-->
+                        <!--将this变量保存在window中，通过window传递给success中，做处理。-->
+                        <!--而且此时的this已经发生改变，不是原来的reply_comment,而是经过next()之后的confirm_reply-->
+                        window.flag = $(this)
+                        <!--alert("confirm")-->
+                        <!--alert($(this).prev().val())-->
+                        reply_text = $(this).prev().val()
+                        var csrftoken = $("#csrftoken input").val()
+                        comment_id = $(this).parent().parent().attr("name")
+                        <!--alert(comment_id)-->
+                        dic = {
+                            "url":"/insert_reply/",
+                            "type":"post",
+                            <!--"async":false,-->
+                            "data":{
+                                "reply_text":reply_text,
+                                "csrfmiddlewaretoken":csrftoken,
+                                "c_id":comment_id,
+                                "replyer_id":$("#reader_id").val(),
+                            },
+                            "dataType":"json",
+                            "success":function(res){
+                                <!--alert(res)-->
+                                console.log(res)
+                                <!--alert(window.flag)-->
+                                <!--此处的window.flag是confirm_reply-->
+                                window.flag.parent().prev().css("display", "block");
+                                var html = ""
+                                $(res).each(function(i, obj){
+
+                                    <!--开始拼接HTML -->
+                                    html += '<div class="reply_list" id=""><div class="reply_each"><div class="reply_user_info"><div class="user_protrait_img"><img id="user_portrait" src="'
+                                    html += obj.replyer_portrait
+                                    html += '" class="left"></div><span class="replyer_name">'
+                                    html += obj.replyer_name
+                                    html += ' : </span><span class="color_fuck">回复</span><span class="bei_replyer_name">'
+                                    html += obj.bei_reply_name
+                                    html += ' : </span></div><div class="reply_text">'
+                                    html += obj.reply_text
+                                    html += '</div><div class="reply_time">'
+                                    html += obj.reply_time
+                                    html += '</div></div></div>'
+                                })
+                                var reply_fuck = $(html)
+                                <!--在comment_each中添加一个回复的div-->
+                                console.log(window.flag)
+                                <!--终极难题-->
+                                <!--winsow.flag.parent().parent().find(".reply_comment").css("display", "block")-->
+                                window.flag.parent().parent().find(".reply_list").remove()
+                                window.flag.parent().parent().append(reply_fuck)
+                                window.flag.parent().remove();
+
+                            }
+                        }
+                        $.ajax(dic)
+                    })
+                    $(this).next().find("input :eq(1)").click(function(){
+                        $(this).parent().prev().css("display", "block");
+                        $(this).parent().remove();
+
+                    })
+
+
+
+
+                })
+
+            })
+
+
+
+
+        }
+        setTimeout(create_event, 500)
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="pnl_pop_reply"></div>
+<script id="_j_pnl_pop_reply" type="text/x-jquery-tmpl">
+    <div>
+        <div class="_j_comment_layer">
+                <div class="quoteWrap">
+                    <p class="tit">${title}</p>
+                    <div class="quoteInfo" style="display: ${display};">${word}</div>
+                    <div class="quick_reply_box">
+                        <div class="vc_reply">
+                            <div class="reply_con _j_article_mode _j_editor" id="_j_editor_quote" data-flag="${flag}" data-objid="0" data-link="${link}" data-ajax="1" data-quick="0" data-quote="${word}">
+                                <dl>
+                                    <dt>
+                                        <!--已选择的举牌-->
+                                        <i class="show-selected-give-sign" id="_js_quoteSelectedGiveSign">
+                                            <span class="close-selected-give-sign" id="_js_quoteDeleteShowGiveSign"></span>
+                                        </i>
+                                    <div class="art_title reply_choice">
+                                        <a href="javascript:void(0);" class="expression _j_show_expression" title="选择表情"></a>
+                                        <a href="javascript:void(0);" class="at _j_show_at" title="@他/她"></a>
+                                        <a href="javascript:void(0);" class="give_sign_btn _j_show_tags give_sign_btn _quote_give_sign_btn" title="举牌" style="display: none;"></a>
+                                        <!--<a href="javascript:void(0);" class="tags l17 on" title="举牌">举牌<i></i><span>经验值<strong>+5</strong></span></a>-->
+                                        <div class="clear"></div>
+                                        <div class="art_pop hide">
+                                            <div class="art_pop_title"></div>
+                                            <a href="#" class="exp_close">×</a>
+                                            <i class="art_arrow"></i>
+                                        </div>
+                                        <!--表情弹窗-->
+                                        <div class="art_pop _j_face_pop hide" data-cid="124">
+                                            <div class="art_pop_box art_face">
+                                                <ul class="clearfix">
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!--@弹层-->
+                                        <div class="art_pop _j_at_pop at_pop hide">
+                                            <div class="at_someone _j_at_pop_box">
+                                                <div class="art_search at_input _j_at_inner">
+                                                    <input type="text" placeholder="请输入用户名号" class="_j_at_txt" value="">
+                                                    <ul class="result hide">
+                                                    </ul>
+                                                </div>
+                                                <div class="art_opt">
+                                                    <a href="javascript:void(0);" class="art_submit" title="确定">确定</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--举牌-->
+                                        <div class="art_pop mark_tags _j_tags_pop _j_quick_card_ch give-sign-details small-sign hide" id="_js_quoteGiveSign">
+                                            <p class="give-sign-details-title-section">
+                                                <span class="title">举牌子</span>
+                                                <span class="about-amount">
+                                                    <label>金币 : </label>
+                                                    <span class="amount"></span>
+                                                    <span class="need-amount"></span>
+                                                </span>
+                                            </p>
+                                            <ul class="give-sign-details-list-section small-sign">
+                                            </ul>
+                                        </div>
+                                </div>
+                                <div class="clear"></div>
+                                </dt>
+                                <dd>
+                                    <div class="reply_text">
+                                        <textarea class="_j_replyarea" name="reply_content" cols="30" rows="10"></textarea>
+                                    </div>
+                                </dd>
+                            </dl>
+                            <div class="publish_reply">
+                                <a href="javascript:void(0);" class="btn_big _j_publish_reply" title="回复">回复</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</script>
+
+
+</div>
+
+<div data-pagelet id="pagelet-block-dd18fc0db2ac6facd7edcca51fb7bf91" class="" data-api=":note:pagelet:ExpandApi" data-params="{&quot;iid&quot;:&quot;10447774&quot;}" data-async="1" data-controller="/js/note/ControllerExpand"></div>
+
+
+<link href="http://css.mafengwo.net/css/mfw-footer.css?1533714581" rel="stylesheet" type="text/css"/>
+
+
+
+
+<link href="http://css.mafengwo.net/css/mfw-toolbar.css?1493174418" rel="stylesheet" type="text/css"/>
+
+<div class="mfw-toolbar" id="_j_mfwtoolbar">
+    <div class="toolbar-item-top">
+		<a role="button" class="btn _j_gotop">
+			<i class="icon_top"></i>
+            <em>返回顶部</em>
+		</a>
+	</div>
+
+
+
+
+    <div class="toolbar-item-down">
+		<a role="button" class="btn _j_gobottom">
+			<i class="icon_down"></i>
+            <em>页面底部</em>
+		</a>
+	</div>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+if (typeof M !== "undefined" && typeof M.loadResource === "function") {
+M.loadResource("http://js.mafengwo.net/js/cv/js+Dropdown:js+pageletcommon+pageHeadUserInfoWWWNormal:js+jquery.tmpl:js+M+module+InputListener:js+M+module+SuggestionXHR:js+M+module+DropList:js+M+module+Suggestion:js+M+module+MesSearchEvent:js+SiteSearch:js+AHeader:js+jquery.jplayer:js+M+module+TopTip:js+M+module+dialog+Layer:js+M+module+dialog+DialogBase:js+M+module+dialog+Dialog:js+M+module+dialog+alert:js+M+module+dialog+confirm:js+M+module+ScrollObserver:js+note+PagesCommunication:js+note+ControllerHead:js+M+module+Slider:js+note+ControllerRelate:js+note+ControllerRec:js+note+ControllerCatalog:js+jquery.mousewheel.min:js+M+module+ScrollBar:js+M+module+StickyAndStayBlock:js+note+ASideSticky:js+note+ControllerExpand:js+M+module+Storage:js+M+module+ClickToggle:js+EmotionsHd:js+module+app+Page:js+M+module+FrequencyVerifyControl:js+M+module+FrequencyAppVerify:js+Selection:js+EmotionFastDelete:js+note+GiveSign:js+note+GinfoReply:js+M+module+Caret:js+M+module+HoverTip:js+note+ControllerReply:js+purl:js+M+module+Movearound:js+note+ADetail:js+note+ADetailContent:js+jquery.upnum:js+note+ADetailImageBar:js+jquery.easing.1.3:js+M+module+Toggle:js+M+module+CopyrightProtecte:js+jquery.lazyload:js+common+TextSelectionTip:js+note+ACommon:js+note+anotice:js+note+poiofnote:js+M+module+RollNumbers:js+note+initHlsVideo:js+note+play.video:js+note+ALoadGoods:js+M+module+PowWorker:js+note+NotePoW:js+M+module+PageAdmin:js+M+module+Cookie:js+M+module+ResourceKeeper:js+jquery.jgrowl.min:js+AMessage:js+M+module+FrequencySystemVerify:js+ALogin:js+M+module+QRCode:js+AToolbar:js+ACnzzGaLog:js+ARecruit:js+ALazyLoad^YlBVRQ^1535954593.js");
+}
+</script>
+
+</body>
+</html>
+
+
+<script>
+    <!--if(Boolean($(".comment_each").html()) == false){-->
+    <!--}-->
+    if($("#_j_showlogin").text()==="登录"){
+        alert("登录后才能评论文章噢~~  ^_^ ")
+    }
+</script>
+
+
+<script>
+    $("#log_out").click(function(){
+
+    })
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 我自己写的ajax异步请求，来获得文章的主要文本和图片内容
+
+
+
+<script>
+dic = {
+url:"/show/",
+type:"get",
+data:"a_id=" + {{ a_id }} ,
+success:function(res){
+$("#main-body").html(res)
+
+}
+}
+
+
+$(function(){
+$.ajax(dic)
+})
+
+</script>
+

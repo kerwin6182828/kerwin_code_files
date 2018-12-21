@@ -1,0 +1,173 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>关于我 —个人博客网站</title>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="keywords" content="个人博客,旅游博客系统,博客,路人组,塑造生命的旅行">
+<meta name="description" content="路人组旅游博客系统，在这里，你可以跟随众多旅行达人环游世界；你也可以将你的旅途故事、精彩摄影等记录下来并分享给广大网友；你还可以与各地网友互动交流、相约同行，结识拥有相同兴趣爱好的新朋友。">
+<LINK rel="Bookmark" href="favicon.ico" >
+<LINK rel="Shortcut Icon" href="favicon.ico" />
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/staticRes/js/html5shiv.js"></script>
+<script type="text/javascript" src="/staticRes/js/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/static/css/H-ui.min.css"/>
+<link rel="stylesheet" type="text/css" href="/static/css/iconfont.min.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/pifu.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/userinfos.css" />
+<!--[if lt IE 9]>
+<link href="/staticRes/lib/h-ui/css/H-ui.ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } function showSide(){$('.navbar-nav').toggle();}</script>
+</head>
+<body>
+<header class="navbar-wrapper">
+    <div class="navbar navbar-fixed-top">
+        <div class="container cl">
+            <a class="navbar-logo hidden-xs" href="personal_index.html">
+                <img class="logo" src="/static/img/logo_sticky.png" alt="路人博客" />
+            </a>
+            <a class="logo navbar-logo-m visible-xs" href="personal_index.html">首页</a>
+            <a aria-hidden="false" class="nav-toggle Hui-iconfont visible-xs" href="javascript:void(0);" onclick="showSide();"></a>
+            <nav class="nav navbar-nav nav-collapse w_menu" role="navigation">
+                <ul class="cl">
+                    <li class="active"> <a href="/personal/index" data-hover="个人主页">个人主页</a> </li>
+                    <li> <a href="/personal/about" data-hover="我的资料">我的资料</a> </li>
+                    <li> <a href="/personal/mood" data-hover="点赞&hearts;收藏">点赞&hearts;收藏</a> </li>
+                    <li><a href="/personal/articleEdit" data-hover="发布文章">发布文章</a></li>
+                    <li> <a href="/personal/board" data-hover="留言板">留言板</a> </li>
+                </ul>
+            </nav>
+            <nav class="navbar-nav navbar-userbar hidden-xs hidden-sm " style="top: 0;">
+                <ul class="cl">
+                    <li class="userInfo dropDown dropDown_hover">
+                            <!--<a href="javascript:;" ><img class="avatar radius" src="img/40.jpg" alt="丶似浅 "></a>❥(^_-)
+                            <ul class="dropDown-menu menu radius box-shadow">
+                                <li><a href="/app/loginOut">退出</a></li>
+                            </ul>-->&nbsp;&nbsp;
+                            <a href="/app/qq" onclick="layer.msg('正在通过QQ登入', {icon:16, shade: 0.1, time:0})" ><img class="avatar size-S" src="img/qq.jpg" title="登入">登入</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<!--导航条-->
+<nav class="breadcrumb">
+    <div class="container"> <i class="Hui-iconfont"></i> <a href="personal_index.html" class="c-primary">首页</a> <span class="c-gray en">&gt;</span>  <span class="c-gray">我的资料</span> </div>
+</nav>
+
+    <div class="container-fluid">
+        <div id="userinfos_content">
+	        <span id ='spec_infos'></span>
+            <form id='userinfos_form' action="/personal/userinfos/" method="post">
+                <table>
+                    <tr class='visitor_show'>
+                        <td class="leftText">
+                            用户ID
+                        </td>
+                        <td>
+                            <input type="text" name = 'uid' readonly>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftText">
+                            手机号
+                        </td>
+                        <td>
+                            <input type="text" name = 'uphone' readonly>
+                        </td>
+                    </tr>
+                    <tr class='visitor_show'>
+                        <td class="leftText">
+                            注册时间
+                        </td>
+                        <td>
+                            <input type="text" name = 'utime' readonly>
+                        </td>
+                    </tr>
+                    <tr class='visitor_show'>
+                        <td class="leftText">
+                            用户名
+                        </td>
+                        <td>
+                            <input type="text" name = 'uname' class="changeable" readonly>
+                        </td>
+                    </tr>
+	                <tr class='visitor_show'>
+                        <td class="leftText">
+                            邮箱
+                        </td>
+                        <td>
+                            <input type="text" name = 'uemail' class="changeable" readonly>
+                        </td>
+                    </tr>
+                    <tr class='visitor_show'>
+                        <td class="leftText">
+                            性别
+                        </td>
+                        <td>
+                            <input type="radio" id='female' name = 'ugender' value="男">男&nbsp;
+                            &nbsp;<input type="radio" id='male' name = 'ugender' value="女">女
+                        </td>
+                    </tr>
+                    <tr class='visitor_show'>
+                        <td class="leftText">
+                            年龄
+                        </td>
+                        <td>
+                            <input type="text" name = 'uage' class="changeable" readonly>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftText">
+                            地址
+                        </td>
+                        <td>
+                            <input type="text" name = 'uaddress' class="changeable" readonly>
+                        </td>
+                    </tr>
+                    <tr class='visitor_show'>
+                        <td class="leftText">
+                            个性签名
+                        </td>
+                        <td>
+                            <textarea name="uprofile" class="changeable" readonly></textarea>
+                        </td>
+                    </tr>
+                </table>
+                    <div id="portrait_show">
+                        <span>用户头像</span><br>
+                        <img name="portrait_show" src={{u_portrait}}>
+                    </div>
+	            <input type="button" id="drop_button" value="返回">
+	            <input type="button" id="change_button" value="修改">
+	            <input type="submit" id="submit_button" name = "infos_submit" value="提交">
+            </form>
+
+            <form action="/personal/upload_portrait/" id="portrait_form" enctype="multipart/form-data" method="post">
+                {% csrf_token %}
+                <input type="file" name="u_portrait" id="upload_portrait"><br>
+                <input type="submit" value="上传图片" name="portrait_submit" id="portrait_submit">
+            </form>
+
+        </div>
+
+    </div>
+<footer class="footer mt-20">
+
+</footer>
+<script type="text/javascript" src="/static/js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="/static/js/pifu.js"></script>
+<script src="/static/js/userinfos.js"></script>
+<script src="/static/js/index.js"></script>
+
+<script> $(function(){ $(window).on("scroll",backToTopFun); backToTopFun(); }); </script>
+</body>
+</html>

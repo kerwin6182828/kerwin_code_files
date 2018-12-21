@@ -1,0 +1,89 @@
+            .reply_list{
+                background-color: #eaeaec;
+                width: 680px;
+                padding-bottom: 12px;
+                border-top-width: 0px;
+                margin: 20 auto;
+            }
+            .reply_each{
+                border-bottom: 1px solid lightgray;
+                overflow: hidden;
+                word-wrap: break-word;
+                /* float: left; */
+                font-family: "Microsoft Yahei";
+                margin-bottom: 0px;
+                margin-left: 13.6px;
+                margin-right: 13.6px;
+                margin-top: 0px;
+                padding-bottom: 12px;
+                padding-left: 0px;
+                padding-right: 0px;
+                padding-top: 13.6px;
+            }
+            #user_portrait{
+                border-bottom-color: rgb(240, 240, 240);
+                border-bottom-left-radius: 50%;
+                border-bottom-right-radius: 50%;
+                border-bottom-style: solid;
+                border-bottom-width: 4px;
+                border-image-outset: 0;
+                border-image-repeat: stretch stretch;
+                border-image-slice: 100%;
+                border-image-source: none;
+                border-image-width: 1;
+                border-left-color: rgb(240, 240, 240);
+                border-left-style: solid;
+                border-left-width: 4px;
+                border-right-color: rgb(240, 240, 240);
+                border-right-style: solid;
+                border-right-width: 4px;
+                border-top-color: rgb(240, 240, 240);
+                border-top-left-radius: 50%;
+                border-top-right-radius: 50%;
+                border-top-style: solid;
+                border-top-width: 4px;
+                color: rgb(255, 138, 0);
+                cursor: pointer;
+                font-family: Arial, "Lucida Grande", "Microsoft Yahei", "Hiragino Sans GB", "Hiragino Sans GB W3", SimSun, "PingFang SC", STHeiti;
+                font-size: 16px;
+                height: 48px;
+                left: 16px;
+                margin-bottom: 0px;
+                margin-left: 0px;
+                margin-right: 0px;
+                margin-top: 0px;
+                outline-color: rgb(255, 138, 0);
+                outline-style: none;
+                outline-width: 0px;
+                overflow-wrap: break-word;
+                padding-bottom: 0px;
+                padding-left: 0px;
+                padding-right: 0px;
+                padding-top: 0px;
+                position: absolute;
+                top: -7px;
+                left:10px;
+                vertical-align: middle;
+                width: 48px;
+            }
+            .replyer_name, .bei_replyer_name{
+                color:orange;
+            }
+            .reply_user_info{
+                position: relative;
+                padding: 12px;
+                padding-left: 80px;
+
+            }
+            .reply_text{
+                padding: 8px;
+                line-height: 30px;
+                color:#151515;
+            }
+            .color_fuck{
+                font-size: 12px;
+                color: #888;
+            }
+            .reply_time{
+                padding: 8px;
+            }

@@ -1,0 +1,2102 @@
+start:   Sun Dec 16 18:41:53 2018    1544956913.7971401
+
+start:   Sun Dec 16 18:43:34 2018    1544957014.291809
+
+start:   Sun Dec 16 18:44:06 2018    1544957046.4474216
+
+start:   Sun Dec 16 18:45:03 2018    1544957103.7993162
+
+start:   Sun Dec 16 18:47:03 2018    1544957223.306801
+
+start:   Sun Dec 16 18:47:32 2018    1544957252.8416014
+
+start:   Sun Dec 16 18:48:20 2018    1544957300.082107
+
+start:   Sun Dec 16 18:48:33 2018    1544957313.7524831
+
+start:   Sun Dec 16 18:49:29 2018    1544957369.7911913
+
+start:   Sun Dec 16 18:52:05 2018    1544957525.8539546
+
+start:   Sun Dec 16 18:54:23 2018    1544957663.6634464
+
+start:   Sun Dec 16 18:56:48 2018    1544957808.3222358
+
+start:   Sun Dec 16 18:59:36 2018    1544957976.9230576
+
+start:   Sun Dec 16 18:59:55 2018    1544957995.6082332
+
+start:   Sun Dec 16 19:00:11 2018    1544958011.769626
+
+start:   Sun Dec 16 19:01:15 2018    1544958075.4851913
+
+start:   Sun Dec 16 19:11:40 2018    1544958700.9643648
+
+start:   Sun Dec 16 19:13:47 2018    1544958827.6336656
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+start:   Sun Dec 16 19:14:53 2018    1544958893.327523
+
+start:   Sun Dec 16 19:16:00 2018    1544958960.2454195
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+start:   Sun Dec 16 19:16:34 2018    1544958994.3607817
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+start:   Sun Dec 16 19:17:01 2018    1544959021.8055122
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:03 2018    1544959023.7970166
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:03 2018    1544959023.8660753
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:03 2018    1544959023.896092
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:03 2018    1544959023.9321275
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:03 2018    1544959023.9771638
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:04 2018    1544959024.0011773
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:17:04 2018    1544959024.0287015
+
+start:   Sun Dec 16 19:20:35 2018    1544959235.820644
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.623564
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.6495287
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.6835515
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.7225778
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.751107
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.7721226
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:37 2018    1544959237.8081448
+
+start:   Sun Dec 16 19:20:49 2018    1544959249.607344
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.0578456
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.0878692
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.1188889
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.150916
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.187946
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.217966
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:20:52 2018    1544959252.2509923
+
+start:   Sun Dec 16 19:21:10 2018    1544959270.0165224
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:12 2018    1544959272.9636626
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:13 2018    1544959273.0011916
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:13 2018    1544959273.0273879
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:13 2018    1544959273.3412662
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:13 2018    1544959273.5153966
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:13 2018    1544959273.5454173
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:21:13 2018    1544959273.574437
+
+start:   Sun Dec 16 19:29:33 2018    1544959773.9068646
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+start:   Sun Dec 16 19:30:20 2018    1544959820.270849
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.2211637
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.314237
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.3637707
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.4240544
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.4986126
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.5686643
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.6052883
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.6738424
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.7408867
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.820948
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.9245915
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:24 2018    1544959824.9788094
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.007829
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.0638754
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.098184
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.1802454
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.2362828
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.2763188
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.4585288
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.4875488
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.5185719
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.6552026
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.706394
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.736414
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.77044
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.813975
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:25 2018    1544959825.8975801
+
+start:   Sun Dec 16 19:30:44 2018    1544959844.033029
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:45 2018    1544959845.9167528
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:45 2018    1544959845.9657862
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.0245628
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.0455773
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.126139
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.184175
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.2519374
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.288962
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.341047
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.4836464
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.5081685
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.5646894
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.7589092
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.8159614
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.8699937
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.9240406
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:46 2018    1544959846.9540575
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.0005925
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.0281148
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.0531323
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.2788167
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.3043401
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.3633828
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.4372735
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.4722965
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.4933205
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:30:47 2018    1544959847.5213408
+
+start:   Sun Dec 16 19:30:59 2018    1544959859.7058387
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.190023
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.649206
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.6832297
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.7247622
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.7853074
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.8153274
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.8423564
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:02 2018    1544959862.8623693
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.0641398
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.1091702
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.3728895
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.4099135
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.6809888
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.7160113
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.746953
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:03 2018    1544959863.9605215
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.2067013
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.2962246
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.3951786
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.4237006
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.4612317
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.4902506
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.532284
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.5823221
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.6263545
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.65638
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:04 2018    1544959864.714418
+
+start:   Sun Dec 16 19:31:47 2018    1544959907.1628425
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.030351
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.0603702
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.1534374
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.1874607
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.2745304
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.3425865
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.3866148
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.5999243
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.6767511
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.7458036
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.7748232
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.8568885
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.8889093
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:49 2018    1544959909.9829798
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.027019
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.1150825
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.1931393
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.333027
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.3700497
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.4686458
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.5161803
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.9357207
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:50 2018    1544959910.9817512
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:51 2018    1544959911.0067732
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:51 2018    1544959911.032794
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:51 2018    1544959911.0618129
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:31:51 2018    1544959911.600376
+
+start:   Sun Dec 16 19:32:12 2018    1544959932.8122473
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.0365493
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.1063159
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.1738687
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.2679408
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.3319833
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.388026
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.4140441
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.4767869
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.551347
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.6213925
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.684444
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.7519946
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.8235476
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.871588
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:15 2018    1544959935.8986077
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.047071
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.1081421
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.1656892
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.1937077
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.252751
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.2955098
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.334535
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.3797731
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.4308066
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.468911
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.5674863
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:16 2018    1544959936.6961927
+
+start:   Sun Dec 16 19:32:56 2018    1544959976.4970963
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.5271728
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.5759804
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.6155128
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.6880739
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.7481232
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.8071625
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.8361907
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:58 2018    1544959978.9968293
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.0569055
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.15948
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.208513
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.2585528
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.335135
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.4221992
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.4795356
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.5035548
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.5716078
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.6412857
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.686316
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.7808893
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.8658228
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.9138548
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:32:59 2018    1544959979.954593
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:00 2018    1544959980.0166423
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:00 2018    1544959980.047168
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:00 2018    1544959980.0801888
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:00 2018    1544959980.2873776
+
+start:   Sun Dec 16 19:33:11 2018    1544959991.0040178
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.565145
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.63319
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.6717277
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.6997464
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.7557938
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.8108315
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.835844
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:14 2018    1544959994.884885
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.0940385
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.158718
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.211755
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.2517853
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.3239925
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.3610852
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.418125
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.4742513
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.5182803
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.6186886
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.7117574
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.780811
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.8108315
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.8565845
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.8946066
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.9446454
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:15 2018    1544959995.9818184
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:16 2018    1544959996.0048332
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:33:16 2018    1544959996.0403652
+
+start:   Sun Dec 16 19:34:33 2018    1544960073.6577213
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:47 2018    1544960087.6626096
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:49 2018    1544960089.771874
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:50 2018    1544960090.1887743
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:54 2018    1544960094.17058
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:55 2018    1544960095.994889
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:56 2018    1544960096.7681847
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:57 2018    1544960097.889009
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:34:58 2018    1544960098.994889
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:01 2018    1544960101.0303845
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:02 2018    1544960102.2837243
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:02 2018    1544960102.3147454
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:05 2018    1544960105.1902728
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:05 2018    1544960105.215289
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:07 2018    1544960107.02477
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:07 2018    1544960107.0518994
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:08 2018    1544960108.8404973
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:10 2018    1544960110.884116
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:10 2018    1544960110.9201405
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:12 2018    1544960112.4220772
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:14 2018    1544960114.1070504
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:14 2018    1544960114.1641045
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:15 2018    1544960115.9003487
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:15 2018    1544960115.9253633
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:16 2018    1544960116.6689548
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:16 2018    1544960116.698976
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:17 2018    1544960117.447184
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:35:17 2018    1544960117.47721
+
+start:   Sun Dec 16 19:37:50 2018    1544960270.176563
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:06 2018    1544960286.5055332
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:06 2018    1544960286.515538
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:08 2018    1544960288.0993345
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:08 2018    1544960288.1183548
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:09 2018    1544960289.1197505
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:11 2018    1544960291.1299586
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:12 2018    1544960292.4110665
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:14 2018    1544960294.5723789
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:14 2018    1544960294.938772
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:15 2018    1544960295.9680958
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:19 2018    1544960299.1895282
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:20 2018    1544960300.1221912
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:21 2018    1544960301.266239
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:22 2018    1544960302.5329535
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:23 2018    1544960303.164794
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:24 2018    1544960304.4332085
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:25 2018    1544960305.949426
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:26 2018    1544960306.3276212
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:26 2018    1544960306.6895676
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:27 2018    1544960307.0280404
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:27 2018    1544960307.4615517
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:27 2018    1544960307.763542
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:28 2018    1544960308.4260008
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:28 2018    1544960308.7684631
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:28 2018    1544960308.8140028
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:29 2018    1544960309.3634155
+
+1个完整的房源写入成功:   Sun Dec 16 19:38:29 2018    1544960309.36842
+
+start:   Sun Dec 16 19:41:15 2018    1544960475.799694
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:33 2018    1544960493.3178756
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:35 2018    1544960495.9076207
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:36 2018    1544960496.9745338
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:38 2018    1544960498.3460042
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:38 2018    1544960498.7745702
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:39 2018    1544960499.7865262
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:42 2018    1544960502.2371051
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:43 2018    1544960503.44225
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:44 2018    1544960504.6895523
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:45 2018    1544960505.6966028
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:46 2018    1544960506.7216263
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:47 2018    1544960507.1380708
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:48 2018    1544960508.1740646
+
+argument of type 'NoneType' is not iterable
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:50 2018    1544960510.1467264
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:51 2018    1544960511.438077
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:52 2018    1544960512.9914985
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+argument of type 'NoneType' is not iterable
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:53 2018    1544960513.875358
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:53 2018    1544960513.894367
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:54 2018    1544960514.5369098
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:54 2018    1544960514.8741696
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:55 2018    1544960515.5749054
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:55 2018    1544960515.612929
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:56 2018    1544960516.3459945
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:56 2018    1544960516.3590157
+
+float() argument must be a string or a number, not 'NoneType'
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:57 2018    1544960517.0381696
+
+float() argument must be a string or a number, not 'NoneType'
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:57 2018    1544960517.0972245
+
+1个完整的房源写入成功:   Sun Dec 16 19:41:57 2018    1544960517.7319295
+

@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>个人博客</title>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="keywords" content="个人博客,旅游博客系统,博客,路人组,塑造生命的旅行">
+<meta name="description" content="路人组旅游博客系统，在这里，你可以跟随众多旅行达人环游世界；你也可以将你的旅途故事、精彩摄影等记录下来并分享给广大网友；你还可以与各地网友互动交流、相约同行，结识拥有相同兴趣爱好的新朋友。">
+<LINK rel="Bookmark" href="favicon.ico" >
+<LINK rel="Shortcut Icon" href="favicon.ico" />
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/staticRes/js/html5shiv.js"></script>
+<script type="text/javascript" src="/staticRes/js/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/static/css/H-ui.min.css"/>
+<link rel="stylesheet" type="text/css" href="/static/css/iconfont.min.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/pifu.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/articleEdit.css"/>
+<!--[if lt IE 9]>
+<link href="/staticRes/lib/h-ui/css/H-ui.ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } function showSide(){$('.navbar-nav').toggle();}</script>
+</head>
+<body>
+<header class="navbar-wrapper">
+    <div class="navbar navbar-fixed-top">
+        <div class="container cl">
+            <a class="navbar-logo hidden-xs" href="personal_index.html">
+                <img class="logo" src=/static/img/logo_sticky.png" alt="路人博客" />
+            </a>
+            <a class="logo navbar-logo-m visible-xs" href="personal_index.html">首页</a>
+            <a aria-hidden="false" class="nav-toggle Hui-iconfont visible-xs" href="javascript:void(0);" onclick="showSide();"></a>
+            <nav class="nav navbar-nav nav-collapse w_menu" role="navigation">
+                <ul class="cl">
+                    <li class="active"> <a href="/personal/index" data-hover="个人主页">个人主页</a> </li>
+                    <li> <a href="/personal/about" data-hover="我的资料">我的资料</a> </li>
+                    <li> <a href="/personal/mood" data-hover="点赞&hearts;收藏">点赞&hearts;收藏</a> </li>
+                    <li><a href="/personal/articleEdit" data-hover="发布文章">发布文章</a></li>
+                    <li> <a href="/personal/board" data-hover="留言板">留言板</a> </li>
+                </ul>
+            </nav>
+            <nav class="navbar-nav navbar-userbar hidden-xs hidden-sm " style="top: 0;">
+                <ul class="cl">
+                    <li class="userInfo dropDown dropDown_hover">
+                            <!--<a href="javascript:;" ><img class="avatar radius" src="img/40.jpg" alt="丶似浅 "></a>
+                            <ul class="dropDown-menu menu radius box-shadow">
+                                <li><a href="/app/loginOut">退出</a></li>
+                            </ul>-->&nbsp;&nbsp;
+                            <a href="/app/qq" onclick="layer.msg('正在通过QQ登入', {icon:16, shade: 0.1, time:0})" ><img class="avatar size-S" src="img/qq.jpg" title="登入">登入</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<!--导航条-->
+<nav class="breadcrumb">
+    <div class="container">
+        <i class="Hui-iconfont"></i><a href="personal_index.html" class="c-primary">首页</a>
+        <span class="c-gray en">&gt;</span> <a href="articleEdit.html" class="c-primary">我的文章</a>
+        <span class="c-gray en">&gt;</span> <span class="c-gray"><i class="Hui-iconfont"></i></span>
+    </div>
+</nav>
+
+	<div id = "articleEdit">
+		<form id="lreditor" action="/personal/articleEdit/" enctype="multipart/form-data" method="post">
+			{% csrf_token %}
+			{{myform.media}}
+			{{myform.as_p}}
+			<input type='submit' value='发布' >
+		</form>
+	</div>
+
+
+<footer class="footer mt-20">
+    <div class="container-fluid" id="foot">
+        <p>Copyright &copy; 路人博客 <br>
+            <a href="#" target="_blank">备案号</a><br>
+        </p>
+    </div>
+</footer>
+<script type="text/javascript" src="/static/js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="/static/js/layer.js"></script>
+<script type="text/javascript" src="/static/js/H-ui.min.js"></script>
+<script type="text/javascript" src="/static/js/pifu.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script>
+<script> $(function(){ $(window).on("scroll",backToTopFun); backToTopFun(); }); </script>
+<script>
+$(function(){
+//标签
+	$(".tags a").each(function(){
+		var x = 9;
+		var y = 0;
+		var rand = parseInt(Math.random() * (x - y + 1) + y);
+		$(this).addClass("tags"+rand)
+	});
+
+	$("img.lazyload").lazyload({failurelimit : 3});
+});
+
+</script>
+</body>
+</html>

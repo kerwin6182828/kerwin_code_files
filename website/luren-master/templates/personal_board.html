@@ -1,0 +1,187 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>路人博客</title>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta name="keywords" content="路人博客,旅游博客系统,博客,路人组,塑造生命的旅行">
+<meta name="description" content="路人组旅游博客系统，在这里，你可以跟随众多旅行达人环游世界；你也可以将你的旅途故事、精彩摄影等记录下来并分享给广大网友；你还可以与各地网友互动交流、相约同行，结识拥有相同兴趣爱好的新朋友。">
+<LINK rel="Bookmark" href="favicon.ico" >
+<LINK rel="Shortcut Icon" href="favicon.ico" />
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/staticRes/js/html5shiv.js"></script>
+<script type="text/javascript" src="/staticRes/js/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/static/css/H-ui.min.css"/>
+<link rel="stylesheet" type="text/css" href="/static/css/iconfont.min.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/pifu.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/wangEditor.min.css">
+<!--[if lt IE 9]>
+<link href="/staticRes/lib/h-ui/css/H-ui.ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } function showSide(){$('.navbar-nav').toggle();}</script>
+</head>
+<body>
+<header class="navbar-wrapper">
+    <div class="navbar navbar-fixed-top">
+        <div class="container cl">
+            <a class="navbar-logo hidden-xs" href="personal_index.html">
+                <img class="logo" src="/static/img/logo_sticky.png" alt="路人博客" />
+            </a>
+            <a class="logo navbar-logo-m visible-xs" href="/index">首页</a>
+            <a aria-hidden="false" class="nav-toggle Hui-iconfont visible-xs" href="javascript:void(0);" onclick="showSide();"></a>
+            <nav class="nav navbar-nav nav-collapse w_menu" role="navigation">
+                <ul class="cl">
+                    <li class="active"> <a href="/personal/index/" data-hover="我的主页">我的主页</a> </li>
+                    <li> <a href="/personal/about/" data-hover="我的资料">我的资料</a> </li>
+                    <li> <a href="/personal/mood/" data-hover="我的&hearts;点赞">我的&hearts;点赞</a> </li>
+                    <li><a href="/personal/articleEdit/" data-hover="我的文章">我的文章</a></li>
+                    <li> <a href="/personal/board/" data-hover="留言板">留言板</a> </li>
+                </ul>
+            </nav>
+            <nav class="navbar-nav navbar-userbar hidden-xs hidden-sm " style="top: 0;">
+                <ul class="cl">
+                    <li class="userInfo dropDown dropDown_hover">
+                            <a href="/app/qq" onclick="layer.msg('正在通过QQ登入', {icon:16, shade: 0.1, time:0})" ><img class="avatar size-S" src="img/qq.jpg" title="登入">登入</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<!--导航条-->
+<nav class="breadcrumb">
+    <div class="container"> <i class="Hui-iconfont"></i> <a href="personal_index.html" class="c-primary">首页</a> <span class="c-gray en">&gt;</span>  <span class="c-gray">留言板</span> </div>
+</nav>
+
+<section class="container">
+    <div class="col-xs-12 col-md-10 col-md-offset-1 mt-20">
+        <!--用于评论-->
+        <div class="mt-20" id="ct">
+            <div id="err" class="Huialert Huialert-danger hidden radius">成功状态提示</div>
+            <textarea id="textarea1" name="comment" style="height:200px;" placeholder="看完不留一发？"> </textarea>
+            <div class="text-r mt-10">
+                <button onclick="getPlainTxt()" class="btn btn-primary radius" > 发表评论</button>
+            </div>
+        </div>
+
+        <div class="line"></div>
+
+        <ul class="commentList mt-50">
+
+          <li class="item cl"> <a href="#"><i class="avatar size-L radius"><img alt="" src="http://q.qlogo.cn/qqapp/101388738/1CF8425D24660DB8C3EBB76C03D95F35/100"></i></a>
+                <div class="comment-main">
+                    <header class="comment-header">
+                        <div class="comment-meta"><a class="comment-author" href="#">老王</a>
+                            <time title="2014年8月31日 下午3:20" datetime="2014-08-31T03:54:20" class="f-r">2014-8-31 15:20</time>
+                        </div>
+                    </header>
+                    <div class="comment-body">
+                        你是猴子派来的救兵吗？
+
+                        <ul class="commentList">
+                            <li class="item cl"> <a href="#"><i class="avatar size-L radius"><img alt="" src="http://qzapp.qlogo.cn/qzapp/101388738/1CF8425D24660DB8C3EBB76C03D95F35/100"></i></a>
+                                <div class="comment-main">
+                                    <header class="comment-header">
+                                        <div class="comment-meta"><a class="comment-author" href="#">老王</a>
+                                            <time title="2014年8月31日 下午3:20" datetime="2014-08-31T03:54:20" class="f-r">2014-8-31 15:20</time>
+                                        </div>
+                                    </header>
+                                    <div class="comment-body">
+                                        <p> 是的</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="item cl"> <a href="#"><i class="avatar size-L radius"><img alt="" src="http://qzapp.qlogo.cn/qzapp/101388738/696C8A17B3383B88804BA92ECBAA5D81/100"></i></a>
+                                <div class="comment-main">
+                                    <header class="comment-header">
+                                        <div class="comment-meta"><a class="comment-author" href="#">老王</a>
+                                            <time title="2014年8月31日 下午3:20" datetime="2014-08-31T03:54:20" class="f-r">2014-8-31 15:20</time>
+                                        </div>
+                                    </header>
+                                    <div class="comment-body">
+                                        <p> +1</p>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul>
+
+                        <button class="hf f-r btn btn-default size-S mt-10" name="2">回复</button>
+
+                    </div>
+                </div>
+            </li>
+            <li class="item cl"> <a href="#"><i class="avatar size-L radius"><img alt="" src="http://qzapp.qlogo.cn/qzapp/101388738/1CF8425D24660DB8C3EBB76C03D95F35/100"></i></a>
+                <div class="comment-main">
+                    <header class="comment-header">
+                        <div class="comment-meta"><a class="comment-author" href="#">老王</a>
+                            <time title="2014年8月31日 下午3:20" datetime="2014-08-31T03:54:20" class="f-r">2014-8-31 15:20</time>
+                        </div>
+                    </header>
+                    <div class="comment-body">
+                        你是猴子派来的救兵吗？
+
+                        <button class="hf f-r btn btn-default size-S mt-10" name="3">回复</button>
+
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+        <!--用于回复-->
+        <div class="comment hidden mt-20">
+            <div id="err2" class="Huialert Huialert-danger hidden radius">成功状态提示</div>
+            <textarea class="textarea" style="height:100px;" > </textarea>
+            <button onclick="hf(this);" type="button" class="btn btn-primary radius mt-10">回复</button>
+            <a class="cancelReply f-r mt-10">取消回复</a>
+        </div>
+
+    </div>
+</section>
+<footer class="footer mt-20">
+    <div class="container-fluid" id="foot">
+        <p>Copyright &copy; 2016-2017 www.wfyvv.com <br>
+            <a href="#" target="_blank">皖ICP备17002922号</a>  更多模板：<a href="http://www.mycodes.net/" target="_blank">源码之家</a><br>
+        </p>
+    </div>
+</footer>
+<script type="text/javascript" src="/static/js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="/static/js/layer.js"></script>
+<script type="text/javascript" src="/static/js/H-ui.min.js"></script>
+<script type="text/javascript" src="/static/js/pifu.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script>
+<script> $(function(){ $(window).on("scroll",backToTopFun); backToTopFun(); }); </script>
+<script type="text/javascript" src="/static/js/jquery.SuperSlide.min.js"></script>
+<script type="text/javascript" src="/static/js/wangEditor.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        wangEditor.config.printLog = false;
+        var editor1 = new wangEditor('textarea1');
+        editor1.config.menus = ['insertcode', 'quote', 'bold', '|', 'img', 'emotion', '|', 'undo', 'fullscreen'];
+        editor1.config.emotions = { 'default': { title: '老王表情', data: 'plugin/wangEditor/emotions1.data'}, 'default2': { title: '老王心情', data: 'plugin/wangEditor/emotions3.data'}, 'default3': { title: '顶一顶', data: 'plugin/wangEditor/emotions2.data'}};
+        editor1.create();
+
+        //show reply
+        $(".hf").click(function () {
+            pId = $(this).attr("name");
+            $(this).parents(".commentList").find(".cancelReply").trigger("click");
+            $(this).parent(".comment-body").append($(".comment").clone(true));
+            $(this).parent(".comment-body").find(".comment").removeClass("hidden");
+            $(this).hide();
+        });
+        //cancel reply
+        $(".cancelReply").on('click',function () {
+            $(this).parents(".comment-body").find(".hf").show();
+            $(this).parents(".comment-body").find(".comment").remove();
+        });
+    });
+
+</script>
+
+</body>
+</html>

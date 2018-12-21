@@ -1,0 +1,844 @@
+{'detail_url': '/zufang/HZ2128821412822532096.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': '/zufang/HZ2130274023316398080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': '/zufang/HZ2120012434780725248.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2128821412822532096.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2133748319242166272.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2133749473480802304.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2133898645647933440.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2133901746395947008.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2133977825106477056.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2136843654827089920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141826785103855616.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141828857584418816.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141977063442087936.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141978423730642944.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141915850033340416.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141923242040885248.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141924396682444800.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141917373647552512.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141927136318201856.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146840758790406144.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2148365555990528000.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2071419697916035072.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2143938720607240192.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2130274023316398080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120012434780725248.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2130304393088868352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2122324342259335168.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2132430593688862720.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2122425912112201728.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2134647658080641024.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2122800157442711552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2142960261819006976.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2123616162683027456.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2136647836010553344.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2123628902630039552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2136782425513271296.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2127979811606904832.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2138969098531913728.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2130312014567325696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140329811531268096.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2133749463775723520.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140517529720717312.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2079382361409060864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2142458307757998080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2115688190395285504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2147562112363806720.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2115688190554939392.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2147638209386397696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121410996567277568.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2147648320636723200.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2123898025179873280.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2147676126649532416.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124558768460005376.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2147739383975903232.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125155635317719040.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120926035922132992.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125280045076586496.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125803925893824512.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125305450311729152.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125811624664104960.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125951678716329984.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2125811628422742016.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2127425507623706624.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2130841892584701952.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2130370254172864512.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2131728886680264704.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2112196526041202688.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2136028783508201472.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2117094292039409664.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2136030854890127360.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2136144864805388288.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120926034118311936.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2138371714466455552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121504399674318848.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2088979709713973248.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2123625521744461824.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2111426837132886016.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124643344486506496.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2115688192333594624.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2127241295428075520.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2115688195420061696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2127357596532228096.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2127397692425912320.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/3991.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//apartment/7682.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144674330821533696.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2144894554464600064.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392079724396544.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392094160650240.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2141010940530278400.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140360366943903744.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392064331300864.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145391942404947968.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145552644452646912.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2145555161496420352.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146066208146071552.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146069714449727488.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2146406941935534080.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2140392167183753216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114103955863633920.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2114104025791610880.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2120951264199049216.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2121699675270037504.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2124546265114222592.html', 'title': None, 'building_start_year': None}
+
+{'detail_url': 'https://hz.lianjia.com//zufang/HZ2105696459344592896.html', 'title': None, 'building_start_year': None}
+
