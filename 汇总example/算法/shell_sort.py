@@ -32,7 +32,7 @@ def shell_sort(lst):
 
 if __name__ == "__main__":
     # 1.测试随机顺序所要花费的时间
-    lst1 = np.random.randint(0, 100, 100)
+    lst1 = np.random.randint(0, 100, 100000)
     l1 = shell_sort(lst1)
     print("随机数据： ", l1, end="\n\n")
 
