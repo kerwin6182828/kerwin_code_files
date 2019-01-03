@@ -1,7 +1,7 @@
 import numpy as np
 import time
 
-def MergeSort(lst):
+def merge_sort(lst):
     def merge(lst, left, mid, right):
         """
         function: 将两个子序列合并
@@ -57,6 +57,8 @@ def MergeSort(lst):
     left = 0
     right = len(lst)-1
     recur_bin(lst, left, right)
+
+    # print("merge_sort:")
     print("count: ", count)# 返回前打印总计算次数
     t2 = time.time()
     print("total time: ", t2-t1)
@@ -68,16 +70,16 @@ def MergeSort(lst):
 if __name__ == "__main__":
     # 1.测试随机顺序所要花费的时间
     lst1 = np.random.randint(0, 100, 100)
-    l1 = MergeSort(lst1)
+    l1 = merge_sort(lst1)
     print("随机数据： ", l1, end="\n\n")
 
     # 2.测试完全逆序所要花费的时间(即为最差时间)
     lst2 = np.arange(100, 0, -1)
-    l2 = MergeSort(lst2)
+    l2 = merge_sort(lst2)
     print("完全逆序 ", l2, end="\n\n")
     # 两者的count差异体现在上面的 num==i 就return的代码
 
     # 3.测试完全顺序所要花费的时间(即为最好时间)
     lst3 = np.arange(1, 101)
-    l3 = MergeSort(lst3)
+    l3 = merge_sort(lst3)
     print("完全顺序 ", l3)
