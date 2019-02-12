@@ -1,4 +1,0 @@
-爬取以下所有图片链接
-http://pic.haibao.com/hotimage/
-要求：
-请用 selenium 以外的方法实现
